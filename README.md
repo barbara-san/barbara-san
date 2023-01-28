@@ -1,6 +1,6 @@
 
 - [x] howdy! 
-- [x] my name is Barbara, but you can call me B
+- [x] my name is barbara, but you can call me b
 - [ ] I currently am a university student in the AI and Data Science area and I look forward to learning and developing my coding skills :D (I've worked with python, C, java and SQL for now)
-- [ ] ~~fun fact, i guess: i love cats~~
+- [x] ~~fun fact, i guess: i love cats~~
 
