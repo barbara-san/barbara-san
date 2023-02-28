@@ -1,6 +1,6 @@
 
 - [x] howdy, I'm B! 
-- [ ] I currently am a university student in the AI and Data Science area and I look forward to learning and developing my coding skills :D
+- [ ] I am a university student in the [Artificial Intelligence and Data Science](https://sigarra.up.pt/fcup/en/cur_geral.cur_view?pv_ano_lectivo=2021&pv_curso_id=23521&pv_origem=CUR&pv_tipo_cur_sigla=L) area and I look forward to learning and developing my coding skills :D
 - [x] ~~fun fact: i love cats~~
 - [ ] [check out my cv!](https://blsbls03.github.io/cv/)
 
