@@ -1,7 +1,7 @@
 
 - [x] howdy, I'm B! 
 - [ ] I am a university student in the [Artificial Intelligence and Data Science](https://sigarra.up.pt/fcup/en/cur_geral.cur_view?pv_ano_lectivo=2021&pv_curso_id=23521&pv_origem=CUR&pv_tipo_cur_sigla=L) area and I look forward to learning and developing my coding skills :D
-- [ ] [check out my cv!](https://blsbls03.github.io/cv/)
+- [ ] check out my [portfolio](https://blsbls03.github.io/portfolio/) and [cv](https://blsbls03.github.io/cv/)!
 - [ ] ~~fun fact: i love cats~~
 
 
