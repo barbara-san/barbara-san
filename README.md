@@ -4,7 +4,6 @@
 - [ ] check out my [portfolio](https://blsbls03.github.io/portfolio/) and [cv](https://blsbls03.github.io/cv/)! (WIP)
 - [ ] ~~fun fact: i love cats~~
 
-
 <table>
 <thead>
   <tr>
