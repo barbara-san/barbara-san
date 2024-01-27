@@ -1,6 +1,6 @@
 
 - [x] howdy, I'm B!  
-- [ ] I am a university student in the [Artificial Intelligence and Data Science](https://sigarra.up.pt/fcup/en/cur_geral.cur_view?pv_ano_lectivo=2021&pv_curso_id=23521&pv_origem=CUR&pv_tipo_cur_sigla=L) area and I look forward to learning and developing my coding skills :D  
+- [ ] I am a [Artificial Intelligence and Data Science](https://sigarra.up.pt/fcup/en/cur_geral.cur_view?pv_ano_lectivo=2021&pv_curso_id=23521&pv_origem=CUR&pv_tipo_cur_sigla=L) university student and I look forward to learning and developing my coding skills :D  
 - [ ] ~~fun fact: i love cats~~
 
 <!--- - [ ] check out my [portfolio](https://barbara-san.github.io/portfolio/) and [cv](https://barbara-san.github.io/cv/)! (WIP) --->
